@@ -2,7 +2,7 @@
 
 Tout est dans le titre.
 
-## HOWTO
+## HOWTO
 
 `vagrant up`
 
