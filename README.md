@@ -1,4 +1,4 @@
-# Installer un AWX sur le pouce
+# Installer un AWX sur le pouce
 
 Tout est dans le titre.
 
