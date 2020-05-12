@@ -2,6 +2,10 @@
 
 Tout est dans le titre.
 
+## HOWTO
+
+`vagrant up`
+
 ## TODO
 
 - activer le SSL
